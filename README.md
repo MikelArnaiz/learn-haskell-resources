@@ -74,5 +74,5 @@ This list is based on
 
 **Utils**
 
-- https://www.haskellmooc.co.uk/
+- http://tryhaskell.org/
 - https://ytplaylist-len.herokuapp.com/ (Non Haskell related)
