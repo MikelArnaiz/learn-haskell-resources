@@ -57,6 +57,9 @@ To learn Haskell
 1. https://haskellbook.com/
 1. http://learnyouahaskell.com/chapters
 1. https://github.com/Apress/practical-haskell
+1. http://book.realworldhaskell.org/
+1. http://www.cambridge.org/9781316626221
+1. http://www.haskellcraft.com/craft3e/Home.html
 
 ### Other
 
