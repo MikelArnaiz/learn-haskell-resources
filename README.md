@@ -35,7 +35,7 @@ To learn Haskell
     1. [Lecture 9 | Brenton Alker](http://vimeo.com/110492903)
     1. [Lecture 10&11 | Sean Chalmers](http://vimeo.com/112814183)
     1. [Lecture 12 | Matt Peddie](https://www.youtube.com/watch?v=Ofz8zO8rjn0)
-1. [Functional Programming Fundamentals | Erik Meijer | ~10h30m]()
+1. [Functional Programming Fundamentals | Erik Meijer | ~10h30m](https://channel9.msdn.com/Series/C9-Lectures-Erik-Meijer-Functional-Programming-Fundamentals/Lecture-Series-Erik-Meijer-Functional-Programming-Fundamentals-Chapter-1)
 1. A taste of haskell | Simon Peyton Jones
     1. [Part 1](https://www.youtube.com/watch?v=jLj1QV11o9g)
     2. [Part 2](https://www.youtube.com/watch?v=IqXTUbdLig0)
