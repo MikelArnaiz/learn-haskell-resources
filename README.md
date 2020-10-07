@@ -61,6 +61,10 @@ To learn Haskell
 1. http://www.cambridge.org/9781316626221
 1. http://www.haskellcraft.com/craft3e/Home.html
 
+### History
+
+1. [A History of Haskell: being lazy with class | Simon Peyton Jones | 57m](https://www.youtube.com/watch?v=3bjXGrycMhQ)
+
 ### Other
 
 1. https://github.com/MostlyAdequate/mostly-adequate-guide
