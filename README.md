@@ -71,6 +71,12 @@ To learn Haskell
 1. https://wiki.haskell.org/Video_presentations#Introductions_to_Haskell
 1. http://wiki.haskell.org/Learning_Haskell
 
+
+### Per topic
+
+1. [Monads](./topics/monads.md)
+1. [Lenses](./topics/lenses.md)
+
 ### Source
 
 This list is based on
